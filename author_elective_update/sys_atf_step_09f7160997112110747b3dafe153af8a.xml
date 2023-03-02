@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step">
+    <sys_atf_step action="DELETE">
+        <active>true</active>
+        <copied_from display_value="Log">66c612c597112110747b3dafe153afaf</copied_from>
+        <description>Log: When neededの項目に、現在の日付を登録するテストは、失敗することが想定されています。&#13;
+テストによって登録されたレコードは以下の通りです：{{Step 2: Record Insert.Record}}</description>
+        <display_name>Log</display_name>
+        <inputs/>
+        <inputs/>
+        <mugshots_cache_json/>
+        <notes/>
+        <order>4</order>
+        <step_config display_value="Log">58ab71985f30220012b44adb7f46661e</step_config>
+        <sys_class_name>sys_atf_step</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-27 05:01:41</sys_created_on>
+        <sys_id>09f7160997112110747b3dafe153af8a</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Log</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_atf_step_09f7160997112110747b3dafe153af8a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-02-27 05:03:43</sys_updated_on>
+        <table/>
+        <test display_value="NeedIt - 現在の日付">70f7dec597112110747b3dafe153afa4</test>
+        <timeout/>
+        <warning_message/>
+    </sys_atf_step>
+    <sys_variable_value action="DELETE" query="document_key=09f7160997112110747b3dafe153af8a"/>
+    <sys_variable_value action="DELETE">
+        <document>sys_atf_step</document>
+        <document_key>09f7160997112110747b3dafe153af8a</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-27 05:01:41</sys_created_on>
+        <sys_id>49f7160997112110747b3dafe153af8b</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-02-27 05:03:43</sys_updated_on>
+        <value>When neededの項目に、現在の日付を登録するテストは、失敗することが想定されています。&#13;
+テストによって登録されたレコードは以下の通りです：{{step['41f7160997112110747b3dafe153af71'].record_id}}</value>
+        <variable display_value="Log">523c79985f30220012b44adb7f46663a</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="DELETE" query="id=09f7160997112110747b3dafe153af8a"/>
+    <sys_element_mapping action="DELETE">
+        <field>log</field>
+        <id>09f7160997112110747b3dafe153af8a</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-27 05:01:41</sys_created_on>
+        <sys_id>4df7160997112110747b3dafe153af8b</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-02-27 05:03:43</sys_updated_on>
+        <table>var__m_atf_input_variable_58ab71985f30220012b44adb7f46661e</table>
+        <value>When neededの項目に、現在の日付を登録するテストは、失敗することが想定されています。&#13;
+テストによって登録されたレコードは以下の通りです：{{step['41f7160997112110747b3dafe153af71'].record_id}}</value>
+    </sys_element_mapping>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>85086541dbcd6d948aea21c40596199c</instance_id>
+        <instance_name>dev148795</instance_name>
+        <name>sys_atf_step_09f7160997112110747b3dafe153af8a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step"><sys_atf_step action="INSERT_OR_UPDATE"><active>true</active><copied_from display_value="Log">66c612c597112110747b3dafe153afaf</copied_from><description>Log: When neededの項目に、現在の日付を登録するテストは、失敗することが想定されています。&#13;
+テストによって登録されたレコードは以下の通りです：{{Step 2: Record Insert.Record}}</description><display_name>Log</display_name><inputs/><inputs/><mugshots_cache_json/><notes/><order>4</order><step_config display_value="Log">58ab71985f30220012b44adb7f46661e</step_config><sys_class_name>sys_atf_step</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-02-27 05:01:41</sys_created_on><sys_id>09f7160997112110747b3dafe153af8a</sys_id><sys_mod_count>2</sys_mod_count><sys_name>Log</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_atf_step_09f7160997112110747b3dafe153af8a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-02-27 05:03:43</sys_updated_on><table/><test display_value="NeedIt - 現在の日付">70f7dec597112110747b3dafe153afa4</test><timeout/><warning_message/></sys_atf_step><sys_variable_value action="delete_multiple" query="document_key=09f7160997112110747b3dafe153af8a"/><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>09f7160997112110747b3dafe153af8a</document_key><order>100</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-02-27 05:01:41</sys_created_on><sys_id>49f7160997112110747b3dafe153af8b</sys_id><sys_mod_count>2</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-02-27 05:03:43</sys_updated_on><value>When neededの項目に、現在の日付を登録するテストは、失敗することが想定されています。&#13;
+テストによって登録されたレコードは以下の通りです：{{step['41f7160997112110747b3dafe153af71'].record_id}}</value><variable display_value="Log">523c79985f30220012b44adb7f46663a</variable></sys_variable_value><sys_element_mapping action="delete_multiple" query="id=09f7160997112110747b3dafe153af8a"/><sys_element_mapping action="INSERT_OR_UPDATE"><field>log</field><id>09f7160997112110747b3dafe153af8a</id><sys_created_by>admin</sys_created_by><sys_created_on>2023-02-27 05:01:41</sys_created_on><sys_id>4df7160997112110747b3dafe153af8b</sys_id><sys_mod_count>2</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-02-27 05:03:43</sys_updated_on><table>var__m_atf_input_variable_58ab71985f30220012b44adb7f46661e</table><value>When neededの項目に、現在の日付を登録するテストは、失敗することが想定されています。&#13;
+テストによって登録されたレコードは以下の通りです：{{step['41f7160997112110747b3dafe153af71'].record_id}}</value></sys_element_mapping></record_update>]]></payload>
+        <payload_hash>-2026998471</payload_hash>
+        <record_name>Log</record_name>
+        <reverted_from/>
+        <source>b99909239701e110747b3dafe153afa8</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-27 05:03:43</sys_created_on>
+        <sys_id>be68da0997112110747b3dafe153afdf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>186914155490000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-02-27 05:03:43</sys_updated_on>
+        <type>Test Step</type>
+        <update_guid>726896098b112110f501646b2a41ef49</update_guid>
+        <update_guid_history>726896098b112110f501646b2a41ef49:-2026998471,cdf716096b1121104e5f91ea31d5c891:-1583068414,81f716090b112110ccbe352e53cc9e8d:431157272</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-27 05:54:16</sys_created_on>
+        <sys_db_object display_value="" name="sys_atf_step">sys_atf_step</sys_db_object>
+        <sys_id>4ca569e67698446893c0c6f4533ee810</sys_id>
+        <sys_metadata>09f7160997112110747b3dafe153af8a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Log</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_atf_step_09f7160997112110747b3dafe153af8a</sys_update_name>
+        <sys_update_version display_value="sys_atf_step_09f7160997112110747b3dafe153af8a">be68da0997112110747b3dafe153afdf</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-02-27 05:54:16</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
